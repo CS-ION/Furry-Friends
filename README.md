@@ -2,7 +2,7 @@
 
 This website, created as a part of my web development course, is dedicated to helping pets find their forever homes. It offers two main features: one for people looking to give away pets and another for those looking to find a pet.
 
-##Giving Away a Pet
+## Giving Away a Pet
 If you are looking to give away a pet, simply click on the "Give Away a Pet" button on the homepage. You will then be asked to provide some basic information about your pet, such as its breed, age, and any special needs it may have. You can also upload a photo of your pet to help attract potential adopters.
 
 Once you have provided all the necessary information, your pet will be added to the website's database of adoptable pets. Interested adopters can then browse through the listings and contact you directly if they are interested in adopting your pet.
