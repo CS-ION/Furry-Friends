@@ -1,0 +1,33 @@
+.container{
+    background-color: blanchedalmond;
+    margin-left: 10%;
+    padding: 50px;
+    height: 100vh;
+}
+
+.matching-pets {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .matching-pets th,
+  .matching-pets td {
+    border: 1px solid black;
+    padding: 8px;
+    font-weight: bold;
+  }
+  
+  .matching-pets th {
+    background-color: #ddd;
+    font-style: italic;
+    text-align: left;
+  }
+  
+  .matching-pets tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .matching-pets tr:hover {
+    background-color: #ddd;
+  }
+  

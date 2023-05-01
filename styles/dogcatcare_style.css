@@ -1,0 +1,50 @@
+.content{
+    margin-left: 10%;
+    width: 90%;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.c_title{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 2em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.dogcare_stuff{
+    font-size: 1.25em;
+    font-family: 'Lucida Calligraphy';
+    padding-right: 50px;
+    font-weight: bolder;
+    color:darkblue;
+}
+
+.dc{
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-spacing: 60px 15px;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.images{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border:5px solid fuchsia;
+}
+
+.headings{
+    font-weight: bold;
+    color: black;
+}
+
+.writings{
+    color:brown;
+}

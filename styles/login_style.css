@@ -1,0 +1,65 @@
+.login_create{
+    background-color: antiquewhite;
+    margin-left: 10%;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    display: flex;
+}
+
+.form1, .form2{
+    border-radius: 20px;
+    background-color: azure;
+    border: 10px inset burlywood;
+    margin: 3%;
+}
+
+.f1, .f2{
+    padding: 10px;
+    display: grid;
+    text-align: center;
+    color: brown;
+    font-size:1em;
+    width: 500px;
+}
+
+.f1 input, .f2 input{
+    background-color: cornsilk;
+    border: 5px solid black;
+    border-radius: 5%;
+    height: 50px;
+    font-weight: bolder;
+    color: brown;
+}
+
+.f1 input[type="reset"], .f2 input[type="reset"]{
+    background-color: red;
+    border: 10px solid black;
+    border-radius: 50px;
+    height: 80px;
+    font-size: 1.5em;
+    color: white;
+}
+
+.f1 input[type="submit"], .f2 input[type="submit"]{
+    background-color:green;
+    border: 10px solid black;
+    border-radius: 50px;
+    height: 80px;
+    font-size: 1.5em;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+.format{
+    background-color: antiquewhite;
+    margin-left: 10%;
+    padding: 50px;
+    padding-top: 0px;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    color: red;
+}

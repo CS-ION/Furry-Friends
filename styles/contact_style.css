@@ -1,0 +1,76 @@
+.info{
+    background-color: antiquewhite;
+    margin-left: 10%;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    display: flex;
+}
+
+.form_title{
+    padding-top: 15px;
+    text-align: center;
+    font-family:'Segoe UI';
+    font-size: 3rem;
+    font-weight: bolder;
+    font-style: italic;
+    color: goldenrod;
+}
+
+.form_container{
+    border-radius: 20px;
+    background-color: azure;
+    border: 10px inset burlywood;
+    margin: 3%;
+}
+
+.con_form{
+    padding: 10px;
+    display: grid;
+    text-align: left;
+    color: brown;
+    font-size:1em;
+    width: min-content;
+}
+
+.con_form input,textarea{
+    background-color: cornsilk;
+    border: 5px solid black;
+    border-radius: 5%;
+    height: 50px;
+    font-weight: bolder;
+    color: brown;
+}
+
+.con_form textarea{
+    height: auto;
+    width: 800px;
+}
+
+.con_form input[type="reset"]{
+    background-color: red;
+    border: 10px solid black;
+    border-radius: 50px;
+    height: 80px;
+    font-size: 1.5em;
+    color: white;
+}
+
+.con_form input[type="submit"]{
+    background-color:green;
+    border: 10px solid black;
+    border-radius: 50px;
+    height: 80px;
+    font-size: 1.5em;
+    color: white;
+}
+
+.details{
+    padding-top: 25px;
+}
+
+.tb{
+    text-align: center;
+    border-spacing: 10px;
+    font-weight: bold;
+    color: blue;
+}

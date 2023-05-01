@@ -1,0 +1,48 @@
+.home_page{
+    margin-left: 10%;
+    width: 90%;
+    background-color:blanchedalmond;
+}
+
+.mission{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 2em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.para1_contents{
+    text-align: center;
+    padding-left: 100px;
+    padding-top: 30px;
+    padding-right: 100px;
+    border-spacing: 0 50px;
+}
+
+.para1{
+    font-size: 1.25em;
+    font-family: 'Lucida Calligraphy';
+    font-weight: 600;
+    color:tomato;
+}
+
+.para1_img{
+    height: 300px;
+    width: 500px;
+    border: 5px solid greenyellow;
+    border-radius: 50%;
+}
+
+.para2{
+    font-size: large;
+    font-family: 'Lucida Calligraphy';
+    font-weight: 600;
+    padding-right: 50px;
+    color: blueviolet;
+}
+
+.para2_img{
+    height: 300px;
+    width: 500px;
+    border-radius: 50%;
+}

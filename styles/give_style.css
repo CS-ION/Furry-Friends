@@ -1,0 +1,63 @@
+.f_content{
+    margin-left: 10%;
+    width: 90%;
+    background-color:blanchedalmond;
+    padding-bottom: 50px;
+}
+
+.form_title{
+    padding-top: 15px;
+    text-align: center;
+    font-family:'Segoe UI';
+    font-size: 3rem;
+    font-weight: bolder;
+    font-style: italic;
+    color: orangered;
+}
+
+.form_container{
+    background-color: cornflowerblue;
+    margin: 50px 100px 0 100px;
+    border: 10px solid fuchsia;
+    border-radius: 25px;
+}
+
+.find_form{
+    display: grid;
+    text-align: left;
+    color: darkred;
+    font-size: 1em;
+    padding: 50px;
+}
+
+.find_form select,input[type="text"],textarea{ 
+    background-color: cornsilk;
+    border: 5px solid black;
+    border-radius: 5%;
+    height: 50px;
+    font-weight: bolder;
+    color: brown;
+}
+
+.find_form input[type="reset"]{
+    background-color: red;
+    border: 10px solid black;
+    border-radius: 50px;
+    height: 80px;
+    font-size: 1.5em;
+    color: white;
+}
+
+.find_form input[type="submit"]{
+    background-color:green;
+    border: 10px solid black;
+    border-radius: 50px;
+    height: 80px;
+    font-size: 1.5em;
+    color: white;
+}
+
+.find_form textarea{ 
+    height: 200px;
+}
+   
